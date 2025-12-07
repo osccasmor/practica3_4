@@ -1,0 +1,13 @@
+{
+  "name": "practica3_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aplicacion.js",
+  "scripts": {
+    "start": "node aplicacion.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
